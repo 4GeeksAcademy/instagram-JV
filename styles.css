@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+.container {
+    background-color: white;
+    padding: 20px;
+    margin: 50px 500px 50px 500px;
+    width: 580px;
+    height: 650px;
+    justify-content: center;
+    
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.rigo{
+    float:left;
+    margin-left: -400px;
+}
+.photo {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    margin-left: 240px;
+}
+.footer {
+    background-color: white;
+    margin-top: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.simboloHTML{
+    float: left;
+    font-size: 38px;
+}
+.tresPuntos{
+    float: right;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.fa-bookmark{
+    float: right;
+}
+.rigoberto{
+    margin-top: -15px;
+}
+
